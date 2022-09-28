@@ -1,3 +1,8 @@
+# Next.js Crypto List
+created to learn basic Next.js principles
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
